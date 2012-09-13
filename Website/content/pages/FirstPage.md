@@ -11,7 +11,8 @@ Feed it with a bunch of images and it will generate a movie with your face cente
 
 Here is a small demonstration of what Ivolution can achieve :
 
-[Video Ivolution at work here](http://www.youtube.com/watch?v=9ZpKnSjvmXo)
+<iframe width="640" height="360" src="http://www.youtube.com/embed/9ZpKnSjvmXo?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+
 
 Ivolution uses __face detection__ and modifies the images so that your face always keeps the same size and location over the movie.
 Images are processed in __chronological order__, so that you can see your face evoluate over time !
@@ -19,7 +20,8 @@ Images are processed in __chronological order__, so that you can see your face e
 Ivolution uses a really simple interface, so that you timelapse is only two clicks from being generated !
 Here is what the current interface looks like :
 
-[Image mp1 here]
+
+![Alt text](../theme/images/blog/mainpage1.png)
 
 
 
