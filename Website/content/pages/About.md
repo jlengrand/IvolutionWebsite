@@ -2,14 +2,14 @@ Title: About
 Tags: face recognition, image processing, computer vision, python, openCV, Ivolution, Facemovie, Everyday, About
 Slug: About
 
-About
+### Other informations
 
-Ivolution was created as a pet project, to help a friend currently travelling around the world.
+__Ivolution__ was created as a pet project, to help a friend currently [travelling around the world](http://ungrandtour.blogspot.nl/) (French inside).
 It is still in early development, but pretty much already achieves what it was created for !
 
-License
+### License
 
-The project is under the simplified BSD license. So here are the rules :
+The project is under the __[simplified BSD license](http://www.linfo.org/bsdlicense.html)__. So here are the rules :
 
 Copyright (c) 2012, Julien Lengrand-Lambert
 All rights reserved.
@@ -36,26 +36,26 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-You can learn more about this license here (http://www.linfo.org/bsdlicense.html).
+[Here is where you can learn more about this license]http://www.linfo.org/bsdlicense.html).
 
-The important thing to note is that I can not be taken responsible for any problem you might encounter (but I'd be glad to help you solve them if you have some).
+The important thing to note is that __I can not be taken responsible for any problem you might encounter__ (but I'd be glad to help you solve them if you have some).
 I never experienced any problem using Ivolution (nor all my users), but you are advised to make a copy of the images your are about to process first.
 
-About me
+### About the developer
 
-My name is Julien Lengrand-Lambert, and I am as french software engineer currently living in the Netherlands.
-You can learn more about me (and the development of Ivolution) on my website, or on my G+ page.
+My name is __[Julien Lengrand-Lambert](https://plus.google.com/u/0/107343304730454368817)__, and I am as french software engineer currently living in the Netherlands.
+You can learn more about me (and the development of Ivolution) on __[my website](http://www.lengrand.fr)__, or on my __[G+ page](https://plus.google.com/u/0/107343304730454368817)__.
 
-To follow my projects real time, you can also follow me on GitHub.
+To follow my projects real time, you can also watch me on __[GitHub](https://github.com/jlengrand)__.
 
-For Ivolution related matters, the official email address is ivolution.app@gmail.fr, but you can also mail me personally on ju.lien@leng.rand.fr (without the dots in julien and lengrand :)).
+For Ivolution related matters, the official email address is __ivolution.app@gmail.com__, but you can also mail me personally using __ju.lien@leng.rand.fr__ (without the dots in julien and lengrand :)).
 
 
-Acknowledgements
+### Acknowledgements
 
 the following is a list of persons or ressources that helped me developing Ivolution :
 
-- As a starter for the application, I used an excellent face detection example (http://japskua.wordpress.com/2010/08/04/detecting-eyes-with-python-opencv/) from Japskua.
-- I use Gene Cash's exif library (http://sourceforge.net/projects/exif-py/) to extract information from EXIF metadata contained in the images
-- The current logo of Ivolution comes from a picture by Luc Viatour (http://www.Lucnix.be) and taken from Wikipedia.
-- Ivolution was developed based on an original idea from Axel Catoire, who is currently travelling around the world (http://ungrandtour.blogspot.com/).
+- As a starter for the application, I used an [excellent face detection example](http://japskua.wordpress.com/2010/08/04/detecting-eyes-with-python-opencv/) from __Japskua__.
+- I use __Gene Cash__'s [exif library](http://sourceforge.net/projects/exif-py/) to extract information from EXIF metadata contained in the images
+- The current logo of Ivolution comes from a picture by __[Luc Viatour](http://www.Lucnix.be)__ and taken from Wikipedia.
+- Ivolution was developed based on an original idea from __Axel Catoire__, who is currently [travelling around the world](http://ungrandtour.blogspot.com/).
