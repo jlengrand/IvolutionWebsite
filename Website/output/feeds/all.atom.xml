@@ -1,2 +1,242 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Ivolution</title><link href="localhost/" rel="alternate"></link><link href="localhost/feeds/all.atom.xml" rel="self"></link><id>localhost/</id><updated>2012-09-13T13:28:17Z</updated></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ivolution</title><link href="localhost/" rel="alternate"></link><link href="localhost/feeds/all.atom.xml" rel="self"></link><id>localhost/</id><updated>2012-09-13T14:14:10+02:00</updated><entry><title>About</title><link href="localhost/About.html" rel="alternate"></link><updated>2012-09-13T14:14:10+02:00</updated><author><name>Julien Lengrand-Lambert</name></author><id>tag:localhost,2012-09-13:About.html</id><summary type="html">&lt;p&gt;About&lt;/p&gt;
+&lt;p&gt;Ivolution was created as a pet project, to help a friend currently travelling around the world.
+It is still in early development, but pretty much already achieves what it was created for !&lt;/p&gt;
+&lt;p&gt;License&lt;/p&gt;
+&lt;p&gt;The project is under the simplified BSD license. So here are the rules :&lt;/p&gt;
+&lt;p&gt;Copyright (c) 2012, Julien Lengrand-Lambert
+All rights reserved.&lt;/p&gt;
+&lt;p&gt;Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.
+    * Neither the name of the organization nor the
+      names of its contributors may be used to endorse or promote products
+      derived from this software without specific prior written permission.&lt;/p&gt;
+&lt;p&gt;THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL &lt;COPYRIGHT HOLDER&gt; BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.&lt;/p&gt;
+&lt;p&gt;You can learn more about this license here (http://www.linfo.org/bsdlicense.html).&lt;/p&gt;
+&lt;p&gt;The important thing to note is that I can not be taken responsible for any problem you might encounter (but I'd be glad to help you solve them if you have some).
+I never experienced any problem using Ivolution (nor all my users), but you are advised to make a copy of the images your are about to process first.&lt;/p&gt;
+&lt;p&gt;About me&lt;/p&gt;
+&lt;p&gt;My name is Julien Lengrand-Lambert, and I am as french software engineer currently living in the Netherlands.
+You can learn more about me (and the development of Ivolution) on my website, or on my G+ page.&lt;/p&gt;
+&lt;p&gt;To follow my projects real time, you can also follow me on GitHub.&lt;/p&gt;
+&lt;p&gt;For Ivolution related matters, the official email address is ivolution.app@gmail.fr, but you can also mail me personally on ju.lien@leng.rand.fr (without the dots in julien and lengrand :)).&lt;/p&gt;
+&lt;p&gt;Acknowledgements&lt;/p&gt;
+&lt;p&gt;the following is a list of persons or ressources that helped me developing Ivolution :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;As a starter for the application, I used an excellent face detection example (http://japskua.wordpress.com/2010/08/04/detecting-eyes-with-python-opencv/) from Japskua.&lt;/li&gt;
+&lt;li&gt;I use Gene Cash's exif library (http://sourceforge.net/projects/exif-py/) to extract information from EXIF metadata contained in the images&lt;/li&gt;
+&lt;li&gt;The current logo of Ivolution comes from a picture by Luc Viatour (http://www.Lucnix.be) and taken from Wikipedia.&lt;/li&gt;
+&lt;li&gt;Ivolution was developed based on an original idea from Axel Catoire, who is currently travelling around the world (http://ungrandtour.blogspot.com/).&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="face recognition"></category><category term="image processing"></category><category term="computer vision"></category><category term="python"></category><category term="openCV"></category><category term="Ivolution"></category><category term="Facemovie"></category><category term="Everyday"></category><category term="About"></category></entry><entry><title>Downloads</title><link href="localhost/Downloads.html" rel="alternate"></link><updated>2012-09-13T14:14:10+02:00</updated><author><name>Julien Lengrand-Lambert</name></author><id>tag:localhost,2012-09-13:Downloads.html</id><summary type="html">&lt;p&gt;Other downloads&lt;/p&gt;
+&lt;p&gt;Several other ressources are available to download :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Current documentation (html)&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Current documentation (pdf)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;pack of samples, to test the application.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;sources of the last version of Ivolution&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A list of all older versions is also available here.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you always want to use the last version available, you can also choose to directly clone the git repository of the project
+(and I'll gladly accept your pull requests ! ;))&lt;/p&gt;
+&lt;p&gt;git clone .. .&lt;/p&gt;</summary><category term="face recognition"></category><category term="image processing"></category><category term="computer vision"></category><category term="python"></category><category term="openCV"></category><category term="Ivolution"></category><category term="Facemovie"></category><category term="Everyday"></category><category term="Downloads"></category></entry><entry><title>Frequent Asked Questions</title><link href="localhost/FAQ.html" rel="alternate"></link><updated>2012-09-13T14:14:10+02:00</updated><author><name>Julien Lengrand-Lambert</name></author><id>tag:localhost,2012-09-13:FAQ.html</id><summary type="html">&lt;p&gt;FAQ&lt;/p&gt;
+&lt;p&gt;I want to create several videos. Do I have to exit the software each time ?&lt;/p&gt;
+&lt;p&gt;No, each time a video has been generated, simply select a new input folder and Start the processing again.
+All the previous information will be flushed automatically.&lt;/p&gt;
+&lt;p&gt;I have a Mac. Can I use Ivolution ?&lt;/p&gt;
+&lt;p&gt;Normally, yes. I have used only components that are known to be os independant.
+But having no Mac at home, I could not compile the application by myself. You'll have to start from the source.&lt;/p&gt;
+&lt;p&gt;Can I use any kind of images?&lt;/p&gt;
+&lt;p&gt;It depends. As it uses face detection, Ivolution expects all the images to be quite similar.
+It basically means that you are expected to take pictures roughly always in the same posture.
+But the whole meaning of Ivolution is to help you align and scale those images, so change in focus, position or background should not be a problem.&lt;/p&gt;
+&lt;p&gt;To  summarize, you definitely can use Ivolution if you take one picture of yourself for example.
+If you take random images from your library though, the results is likely to be pretty bad.&lt;/p&gt;
+&lt;p&gt;Can I use pictures of different people to create a movie?&lt;/p&gt;
+&lt;p&gt;Yes. There is currently no face recognition, so all the faces will be processed the same way (as long as everyone looke like a human :)).&lt;/p&gt;
+&lt;p&gt;I use Linux, how do I get started?&lt;/p&gt;
+&lt;p&gt;The whole linux interface is the same as for Windows. Only the installation step is a bit more challenging.
+I have written an Ubuntu guide here. For other distributions, you have to find the equivalent dependencies.&lt;/p&gt;
+&lt;p&gt;If you have problems or succeed installing Ivolution on other distributions than the ones listed in the install chapter; please let me know.
+I'll use your information to update the documentation.&lt;/p&gt;
+&lt;p&gt;Can I save my project and reuse them later ?&lt;/p&gt;
+&lt;p&gt;No, it is currently not possible.  This feature is in current development.&lt;/p&gt;
+&lt;p&gt;If your issue is not listed here, feel free to send me a message to ivolution.app@gmail.com&lt;/p&gt;</summary><category term="face recognition"></category><category term="image processing"></category><category term="computer vision"></category><category term="python"></category><category term="openCV"></category><category term="Ivolution"></category><category term="Facemovie"></category><category term="Everyday"></category><category term="FAQ"></category></entry><entry><title>Future Developments</title><link href="localhost/FutureDevelopments.html" rel="alternate"></link><updated>2012-09-13T14:14:10+02:00</updated><author><name>Julien Lengrand-Lambert</name></author><id>tag:localhost,2012-09-13:FutureDevelopments.html</id><summary type="html">&lt;p&gt;Future developments&lt;/p&gt;
+&lt;p&gt;As you may already have noticed, Ivolution is still in early development. A lot of new features will probably be added in the future, and here are some of the one I currently work on:&lt;/p&gt;
+&lt;p&gt;Allow users to create and save projects.&lt;/p&gt;
+&lt;p&gt;Currently, users are only able to create a video from scratch using a set of pictures. The process may be long, and boring if you are still in the middle of your project (as you have to start the same process over and over again).
+This is also problematic if you have a lot of images, and not enough time to process everything at once.&lt;/p&gt;
+&lt;p&gt;This feature will allow you to save the work you have already done. This way, only the new images in the folder will be processed once you load the project.&lt;/p&gt;
+&lt;p&gt;Reduce processing time&lt;/p&gt;
+&lt;p&gt;You may have noticed that the face detection process may be quite long, especially if you have high resolution images. This is completely normal, as face detection is a costly operation.
+The process could be fasten in the Ivolution though, by using multi-threading for example.&lt;/p&gt;
+&lt;p&gt;Add fading effect in the video&lt;/p&gt;
+&lt;p&gt;Currently, the video switches between images without effect. This can be quite brutal, especially is you are using the fast speed.
+This could be solved by adding a fading effect between frames. The option to use it or not will be placed in the settings.&lt;/p&gt;
+&lt;p&gt;Allow users to change the name of the video&lt;/p&gt;
+&lt;p&gt;A current limitation forces users to call their output video Ivolution.avi.
+This should be changed soon&lt;/p&gt;
+&lt;p&gt;I have new ideas every day, and there's not enough space here to list them all !
+If you have ideas, or needs just drop me a mail (Ivolution@gmail.com) and I'll be glad to take your advice in consideration !&lt;/p&gt;</summary><category term="face recognition"></category><category term="image processing"></category><category term="computer vision"></category><category term="python"></category><category term="openCV"></category><category term="Ivolution"></category><category term="Facemovie"></category><category term="Everyday"></category><category term="future developments"></category><category term="TODO"></category></entry><entry><title>Installation</title><link href="localhost/Installation.html" rel="alternate"></link><updated>2012-09-13T14:14:10+02:00</updated><author><name>Julien Lengrand-Lambert</name></author><id>tag:localhost,2012-09-13:Installation.html</id><summary type="html">&lt;p&gt;Ivolution should run on most of Windows, Linux and Mac operating systems.
+It was successfully tested on Windows 7, Windows XP and Ubuntu 12.04.&lt;/p&gt;
+&lt;p&gt;Depending on your operating system, the installation step may require a bit more work.
+Please choose below the chapter corresponding to your operating system&lt;/p&gt;
+&lt;p&gt;Windows (XP, Vista, Seven)&lt;/p&gt;
+&lt;p&gt;Simply download and run the executable here (x86).
+Once installed, you should be able to run Ivolution through the icon on the Desktop.
+Everything should work out of the box without issue.&lt;/p&gt;
+&lt;p&gt;The software has not been tested (yet) on Windows 8, but there should not be major problems to get it running.&lt;/p&gt;
+&lt;p&gt;Ubuntu 12.04&lt;/p&gt;
+&lt;p&gt;Ivolution is available in Ubuntu in only a few simple steps.
+First of all, install Ivolution's dependencies. You can simply do this by running the following line in a terminal :
+apt-get install . . .&lt;/p&gt;
+&lt;p&gt;Note : You'll need administrator's rights to install the packages (usually means using sudo).&lt;/p&gt;
+&lt;p&gt;Then, download the last stable packages here and extract here where you want.&lt;/p&gt;
+&lt;p&gt;Finally, move to the extracted folder in a command line and install the package
+python setup.py install --record ivolution_files
+This time again, you will need administrator's right.&lt;/p&gt;
+&lt;p&gt;Done ! You can now start using Ivolution by running
+Ivolutioner
+in a terminal.&lt;/p&gt;
+&lt;p&gt;Note:
+The --record option during the install is used to create a list of all the files generated into your system.
+By default, there is no uninstall solution for python packages and the only solution is to remove all the files one by one.&lt;/p&gt;
+&lt;p&gt;You can do this by running&lt;/p&gt;
+&lt;p&gt;in a command line, where ivolution_file is your record file.&lt;/p&gt;
+&lt;p&gt;WARNING: This command, if not run correctly, may cause damages! Check the record file first.&lt;/p&gt;
+&lt;p&gt;Linux&lt;/p&gt;
+&lt;p&gt;For most of all the other Linux distributions, the installation process is similar as the Ubuntu solution but for the first step.&lt;/p&gt;
+&lt;p&gt;You will have to find the name of the packages for your own distribution, or compile them from source if they don't exist.
+Here is a list of all the elements you'll need in your system to run Ivolution:&lt;/p&gt;
+&lt;p&gt;Once all the dependencies are satisfied, you can simply download and install the package using the directions from the Ubuntu chapter.&lt;/p&gt;
+&lt;p&gt;Mac OS&lt;/p&gt;
+&lt;p&gt;Up to now, I was not able to create application installer as for Windows.
+Mac users should for now follow the Linux guide to install Ivolution.&lt;/p&gt;
+&lt;p&gt;An installer may be provided in the future.
+You can also try to create it by yourself, using py2app (and in this case, let me know !)&lt;/p&gt;</summary><category term="face recognition"></category><category term="image processing"></category><category term="computer vision"></category><category term="python"></category><category term="openCV"></category><category term="Ivolution"></category><category term="Facemovie"></category><category term="Everyday"></category><category term="installation"></category></entry><entry><title>Ivolution Project</title><link href="localhost/Ivolution.html" rel="alternate"></link><updated>2012-09-13T14:14:10+02:00</updated><author><name>Julien Lengrand-Lambert</name></author><id>tag:localhost,2012-09-13:Ivolution.html</id><summary type="html">&lt;p&gt;Welcome on the webiste on the Ivolution project !&lt;/p&gt;
+&lt;p&gt;Ivolution is a face timelapse generator.
+Feed it with a bunch of images and it will generate a movie with your face centered on the screen.&lt;/p&gt;
+&lt;p&gt;Here is a small demonstration of what Ivolution can achieve :&lt;/p&gt;
+&lt;p&gt;http://www.youtube.com/watch?v=9ZpKnSjvmXo&lt;/p&gt;
+&lt;p&gt;Ivolution uses face recognition and modifies the images so that your face always keeps the same size and location over the movie.
+Images are processed in chronological order, so that you can see your face evoluate over time !&lt;/p&gt;
+&lt;p&gt;Ivolution currently supports Windows and Linux, and was successfully tested on Windows XP, 7 and Ubuntu 12.04.&lt;/p&gt;
+&lt;p&gt;Ivolution is currently still in early development, and you may face bugs or feel like critical features are missing.
+In this case, just let me know by sending me a mail or by filing a bug here. I'll be glad to help you !&lt;/p&gt;</summary><category term="face recognition"></category><category term="image processing"></category><category term="computer vision"></category><category term="python"></category><category term="openCV"></category><category term="Ivolution"></category><category term="Facemovie"></category><category term="Everyday"></category></entry><entry><title>Main Interface.</title><link href="localhost/MainInterface.html" rel="alternate"></link><updated>2012-09-13T14:14:10+02:00</updated><author><name>Julien Lengrand-Lambert</name></author><id>tag:localhost,2012-09-13:MainInterface.html</id><summary type="html">&lt;p&gt;The following picture shows what you should see when launching the Ivolution application.&lt;/p&gt;
+&lt;p&gt;The main frame is composed of three different parts :
+1 - The Menubar, used to exit the application, have access to this help or see more information about the application.
+2 - The Toolbar, containing all the elements you can use to create your timelapse, such as the start or the stop buttons
+3 - The Main Frame, aiming at presenting all the information and status of the application in real time.&lt;/p&gt;
+&lt;p&gt;MenuBar&lt;/p&gt;
+&lt;p&gt;I am quite sure everyone having a computer is used to it, but let's present it anyway !&lt;/p&gt;
+&lt;p&gt;The elements of the menubar are quite straight speaking :
+- The Exit menu will exit the application
+- The Help menu will browse the web for the documentation of the application.
+- Finally, the About menu will present you more information about the software, such as the main developer (hint : me :)) or the license file.&lt;/p&gt;
+&lt;p&gt;ToolBar&lt;/p&gt;
+&lt;p&gt;The toolbar contains several icons, each of them having a precise purpose:
+- The first folder button shall be used to define the input folder that will be searched for images. All the images of the folder (and its subfolders) will be used in the timlapse generation
+- The second icon opens the settings window. You can learn more about it in (OTHER CHAPTER). For a basic usage, you can just let the default options.
+- Then come the start and stop buttons. Once you input folder is chosen, you can start the application by pressing the green button. Pressing the red button wile processing will stop it.
+(Be careful, by stopping the application you will have to start all over again).
+Note : Pressing more than once on the start or stop button will not have any additional effect.
+- Finally, a quick link to the online help is here in case you need it.&lt;/p&gt;
+&lt;p&gt;Main Frame&lt;/p&gt;
+&lt;p&gt;The main frame regroups all the elements of the interface that will give you information about your project. It is divided into 4 different parts
+1 - The input label, which shows you the folder from which images will be loaded. the selected folder will change each time you select a new directory using the input folder button.
+2 - The processing list contains the list of images being processed for your timelapse. You will learn more about it in the dedicated section.
+3 - The progress bar will give you real time information about the progress of the processing.
+4 - The status bar will give you a bit more precise information that the progress bar. It is itself divided into 2 parts, and you can learn more about it in the status bar dedicated part.&lt;/p&gt;
+&lt;p&gt;Processing list&lt;/p&gt;
+&lt;p&gt;When you choose your input folder and press start, one of the first steps of the algorithms is to list all the images that will be processed.
+The folder you have selected will be walked recursively, including all its sub-folders and all the files will be retrieved.
+All the images will be then listed, while non image files will automatically discarded.&lt;/p&gt;
+&lt;p&gt;When this step is finished, the algorithm will start searching for faces in your pictures, in chronological order.
+A green color on a file means that the image was successfully processed, while a red color indicates that no face has been found.
+When all the files are given a color, the face detection step is terminated and the movie will be generated.&lt;/p&gt;
+&lt;p&gt;Below are presented 2 examples of processing list. In the first case, the face detection is being performed and everything seems to work fine.
+In the second example, the operation seem to be finished as all the images have been processed. No face has been found on one of the images though.&lt;/p&gt;
+&lt;p&gt;Status Bar&lt;/p&gt;
+&lt;p&gt;The status bar presents you with information about the current step of the algorithm, and the progress of this step.
+To create a video from scratch, several steps have to be performed in a sequential way and you can see them real-time in the left part of the status bar.&lt;/p&gt;
+&lt;p&gt;The different steps are:
+- Listing pictures, meaning that the algorithm is walking through your input folder searching for pictures
+- Detecting faces is displayed when listing the image is finished. Each image is opened and a face detection is performed.
+- Calculating video requirements is the next phase of the algorithm. All the faces have been found. Now you want all of them to be at the same scale in the end video. The output video dimensions are also calculated based on the video mode you have chosen.
+- Generating Movie. All needed information have been collected. The final step is thus to create the timelapse.
+- Process cancelled. If you see this, it either means that you have pressed the stop button, or that there has been a problem during the processing.&lt;/p&gt;</summary><category term="face recognition"></category><category term="image processing"></category><category term="computer vision"></category><category term="python"></category><category term="openCV"></category><category term="Ivolution"></category><category term="Facemovie"></category><category term="Everyday"></category><category term="basic"></category><category term="interface"></category><category term="manual"></category></entry><entry><title>1 minute kick-off</title><link href="localhost/OneMinuteTutorial.html" rel="alternate"></link><updated>2012-09-13T14:14:10+02:00</updated><author><name>Julien Lengrand-Lambert</name></author><id>tag:localhost,2012-09-13:OneMinuteTutorial.html</id><summary type="html">&lt;p&gt;Coz' 1 minute is faster than 5 minutes. . . here is a light speed fast tutorial&lt;/p&gt;
+&lt;p&gt;This page aims at putting you on rails as fast as possible, so that you can see what Ivolution is capable of by yourself, and in less than 5 minutes.&lt;/p&gt;
+&lt;p&gt;First of all, download the version of Ivolution corresponding to your operating system here.
+Then, download the set of samples that you are going to use here, and extract the archive where you want.&lt;/p&gt;
+&lt;p&gt;Install the Ivolution and run it.
+You should now see the main frame of the application.&lt;/p&gt;
+&lt;p&gt;Click on the input folder, and select the location of the samples.&lt;/p&gt;
+&lt;p&gt;Click on start, and wait for the processing to end.&lt;/p&gt;
+&lt;p&gt;Done ! You can now watch the timelapse generated from the images.&lt;/p&gt;
+&lt;p&gt;The timelapse is saved in your Video folder by default.
+For Windows users, it should be C:\Users\myUser\Videos, and for Ubuntu users /home/myUser/Videos.&lt;/p&gt;
+&lt;p&gt;For more option, have a look at the basic part of the documentation.&lt;/p&gt;</summary><category term="face recognition"></category><category term="image processing"></category><category term="computer vision"></category><category term="python"></category><category term="openCV"></category><category term="Ivolution"></category><category term="Facemovie"></category><category term="Everyday"></category><category term="tutorial"></category></entry><entry><title>Settings</title><link href="localhost/Settings.html" rel="alternate"></link><updated>2012-09-13T14:14:10+02:00</updated><author><name>Julien Lengrand-Lambert</name></author><id>tag:localhost,2012-09-13:Settings.html</id><summary type="html">&lt;p&gt;Settings&lt;/p&gt;
+&lt;p&gt;You can access the settings by clicking on the settings button in the main interface.&lt;/p&gt;
+&lt;p&gt;The settings Window is divided into two main parts :
+- the basic settings, where you can change the name of the output file and its location
+- the advanced settings, where you can change the behaviour of the algorithm itself&lt;/p&gt;
+&lt;p&gt;Basic Settings&lt;/p&gt;
+&lt;p&gt;The basic settings page contains only elements:
+- The output location chooser, where you can change where the timelapse will be saved
+- The name chooser, where you can change the name of your timelapse.&lt;/p&gt;
+&lt;p&gt;Advanced Settings&lt;/p&gt;
+&lt;p&gt;The advanced settings page contain several option you can adjust to modify the timelapse creation algorithm behavior.&lt;/p&gt;
+&lt;p&gt;Speed of the video&lt;/p&gt;
+&lt;p&gt;With the speed option, you can select the framerate of the output video.
+The slower you choose, the more time is added between each frame.&lt;/p&gt;
+&lt;p&gt;Basically, the accessible framerates with the speed option are 3, 6 and 9 faces per second.&lt;/p&gt;
+&lt;p&gt;Processing mode&lt;/p&gt;
+&lt;p&gt;The processing mode in Ivolution defines the type of video output you desire.
+There are two main processing types : conservative, and crop.&lt;/p&gt;
+&lt;p&gt;To understand the difference between those two types, you have to know the way Ivolution handles images.
+To create a nice timelapse, each image is resized so that the face always has the same scale during the whole video.
+Each image is also moved so that the face always stays in the same place, even if it is in a different part of the image.&lt;/p&gt;
+&lt;p&gt;You can easily understand this concept by looking at the difference with and without modification&lt;/p&gt;
+&lt;p&gt;http://www.youtube.com/watch?v=9ZpKnSjvmXo&lt;/p&gt;
+&lt;p&gt;By choosing the conservative mode, you will have the exact same result as in the previous video.
+This means that none of the images are cropped, and that black borders are added to keep the same dimension over all the video.&lt;/p&gt;
+&lt;p&gt;On the opposite, you can choose the crop mode if you don't want any black border in the video.
+In this case, the images are cropped to fill the maximum space available.
+This gives nicer results, as the video does not contain black borders, but keep in mind the the resolution of the video is also reduced in this case.&lt;/p&gt;
+&lt;p&gt;Face Type&lt;/p&gt;
+&lt;p&gt;The face type defines the type of video you want to have in output.
+Basically, there are two main different types : profile and front faces.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Profile mode expects your images to contain profile faces. Examples of use can be pregnant women that want to see their belly over time.&lt;/li&gt;
+&lt;li&gt;Front face is the most common mode, perfect if you take front pictures of you. All of the examples you can see on this website use front configuration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sort method&lt;/p&gt;
+&lt;p&gt;The sort method defines the way images are sorted in the video.
+The default mode is filename, in which images will be sorted in name order.
+This mode is perfect for most images coming from cameras and webcams, as the file name contains the date at which the image was taken.
+Using this mode, you can also choose to sort the files in the order you want (by naming them yourselves numerically).&lt;/p&gt;
+&lt;p&gt;The other possible mode uses the EXIF metadata embedded in the picture.
+The EXIF metadata contain a special location for the creation date, and Ivolution can use it to sort pictures chronologically.
+Be careful though, because pictures may not contain metadata.&lt;/p&gt;
+&lt;p&gt;If you are not sure, leave the default option.&lt;/p&gt;</summary><category term="face recognition"></category><category term="image processing"></category><category term="computer vision"></category><category term="python"></category><category term="openCV"></category><category term="Ivolution"></category><category term="Facemovie"></category><category term="Everyday"></category><category term="settings"></category><category term="interface"></category><category term="manual"></category></entry></feed>
