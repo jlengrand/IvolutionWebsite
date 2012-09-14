@@ -6,8 +6,8 @@ Slug: Downloads
 
 Here is what you need to install Ivolution :
 
-- For Windows users, the last executable
-- For Linux and Mac users, the source package
+- For __Windows__ users, the last executable
+- For __Linux and Mac__ users, the source package
 
 - Complete source code of the last version (updated each time I commit)
 
@@ -35,4 +35,4 @@ Several other ressources are available to download :
 - pack of samples, to test the application.
 
 
-If you think something is missing, just let me know by dropping a message to __ivolution-app@gmail.com__ or [file a request here](https://github.com/jlengrand/Ivolution/issues)
+If you think something is missing, just let me know by dropping a message to __[ivolution-app@gmail.com](mailto:ivolution-app@gmail.com)__ or [file a request here](https://github.com/jlengrand/Ivolution/issues)

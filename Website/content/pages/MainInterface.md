@@ -7,7 +7,9 @@ Slug: MainInterface
 The following picture shows what you should see when launching the Ivolution application.
 
 
-![Alt text](../theme/images/blog/mi1.png)
+<center>
+    <p><img alt="Main interface" src="../theme/images/blog/mi1.png" /></p>
+</center>
 
 
 The main frame is composed of three different parts :
@@ -49,7 +51,9 @@ The toolbar contains several icons, each of them having a precise purpose:
 The main frame regroups all the elements of the interface that will give you information about your project.
 
 
-![Alt text](../theme/images/blog/mi2.png)
+<center>
+    <p><img alt="Main interface" src="../theme/images/blog/mi2.png" /></p>
+</center>
 
 
 It is divided into 4 different parts
@@ -73,9 +77,10 @@ When all the files are given a color, the face detection step is terminated and 
 Below are presented 2 examples of processing list. In the first case, the face detection is being performed and everything seems to work fine.
 In the second example, the operation seem to be finished as all the images have been processed. No face has been found on one of the images though.
 
-
-![Alt text](../theme/images/blog/mi3.png)
-![Alt text](../theme/images/blog/mi4.png)
+<center>
+    <p><img alt="Main interface" src="../theme/images/blog/mi3.png" /></p>
+    <p><img alt="Main interface" src="../theme/images/blog/mi4.png" /></p>
+</center>
 
 
 #### Status Bar

@@ -11,6 +11,7 @@ It is still in early development, but pretty much already achieves what it was c
 
 The project is under the __[simplified BSD license](http://www.linfo.org/bsdlicense.html)__. So here are the rules :
 
+<center>
 Copyright (c) 2012, Julien Lengrand-Lambert
 All rights reserved.
 
@@ -35,6 +36,8 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+</center>
 
 [Here is where you can learn more about this license]http://www.linfo.org/bsdlicense.html).
 

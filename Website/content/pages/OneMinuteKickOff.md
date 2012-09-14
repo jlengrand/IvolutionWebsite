@@ -17,20 +17,23 @@ You should now see the main frame of the application.
 
 Click on the input folder, and select the location of the samples.
 
-
-![Alt text](../theme/images/blog/omko1.png)
+<center>
+<p><img alt="Main interface" src="../theme/images/blog/omko1.png" /></p>
+</center>
 
 
 Click on start, and wait for the processing to end.
 
-
-![Alt text](../theme/images/blog/omko2.png)
+<center>
+<p><img alt="Main interface" src="../theme/images/blog/omko2.png" /></p>
+</center>
 
 
 Here is what you should get once everything is finished :
 
-
-![Alt text](../theme/images/blog/omko3.png)
+<center>
+<p><img alt="Main interface" src="../theme/images/blog/omko3.png" /></p>
+</center>
 
 
 __Done !__ You can now watch the timelapse generated from the images.

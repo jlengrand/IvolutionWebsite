@@ -17,8 +17,9 @@ The settings Window is divided into two main parts :
 
 This is the default page opened when you click on settings.
 
-
-![Alt text](../theme/images/blog/s1.png)
+<center>
+<p><img alt="Main interface" src="../theme/images/blog/s1.png" /></p>
+</center>
 
 
 The basic settings page contains only elements:
@@ -32,8 +33,9 @@ The basic settings page contains only elements:
 
 The advanced settings page contain several option you can adjust to modify the timelapse creation algorithm behavior.
 
-
-![Alt text](../theme/images/blog/s2.png)
+<center>
+<p><img alt="Main interface" src="../theme/images/blog/s2.png" /></p>
+</center>
 
 
 ### Speed of the video
@@ -54,8 +56,9 @@ Each image is also moved so that __the faces always stays in the same place__, e
 
 You can easily understand this concept by looking at the difference between each mode in this video :
 
-
+<center>
 <iframe width="640" height="360" src="http://www.youtube.com/embed/9ZpKnSjvmXo?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+</center>
 
 
 By choosing the __conservative mode__, all of your images are entirely used.
