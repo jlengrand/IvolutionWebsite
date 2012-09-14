@@ -25,8 +25,11 @@ PAGELINKS =  (('Ivolution Project', 'Ivolution.html'),
           ('About', 'About.html'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'https://twitter.com/jlengrand'),
+          ('Google+', 'https://plus.google.com/u/0/107343304730454368817/posts'),
+          ('Github', 'https://github.com/jlengrand'),
+          ('Stack Overflow', 'http://stackoverflow.com/users/282677/jlengrand'),
+          ('linkedin', 'http://nl.linkedin.com/pub/julien-lengrand-lambert/14/660/551/en'),)
 
 DEFAULT_PAGINATION = False
 NEWEST_FIRST_ARCHIVES = False
