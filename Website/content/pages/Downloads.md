@@ -16,14 +16,14 @@ Older versions are also available here:
 - Windows
 - Other
 
-If you always want to use the last version available, you can also choose to directly clone the git repository of the project
+If you want to always have the last version available, you can also choose to directly clone the git repository of the project
 (and I'll gladly accept your pull requests ! ;))
 
-git clone .. .
+    :::python
+    $ git clone .. .
 
 
 Simply enter the project and run __./Ivolutioner__ in command line should get you started :).
-
 
 ### Other downloads
 

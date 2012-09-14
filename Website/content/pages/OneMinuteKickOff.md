@@ -3,7 +3,7 @@ Tags: face recognition, image processing, computer vision, python, openCV, Ivolu
 Slug: OneMinuteTutorial
 
 
-## Coz' 1 minute is faster than 5 minutes. . . here is a light speed fast tutorial
+## Coz' 1 minute is faster than 5 minutes. . . here is a light speed tutorial
 
 
 This page aims at putting you on rails __as fast as possible__, so that you can see what Ivolution is capable of by yourself __in less than 5 minutes__.
@@ -38,6 +38,6 @@ __Done !__ You can now watch the timelapse generated from the images.
 The timelapse is saved in your __Video folder__ by default.
 For Windows users, it should be *C:\Users\myUser\Videos*, and for Ubuntu users */home/myUser/Videos*.
 
-For more option, have a look at the __[basic part of the documentation](link to basic doc)__.
+For more option, have a look at the __[basic part of the documentation](../pages/MainInterface.html)__.
 
 
