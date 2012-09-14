@@ -10,17 +10,17 @@ TIMEZONE = 'Europe/Amsterdam'
 DEFAULT_LANG = 'en'
 
 # Blogroll
-LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-          ('Python.org', 'http://python.org'),
-          ('Jinja2', 'http://jinja.pocoo.org'),
-          ('You can modify those links in your config file', '#'),)
+LINKS =  (('Python.org', 'http://python.org'),
+          ('OpenCV', 'http://opencv.willowgarage.com/wiki/'),
+          ('WxPython', 'http://wxpython.org/'),
+          ('About me', 'http://www.lengrand.fr'),)
 
 PAGELINKS =  (('Ivolution Project', 'Ivolution.html'),
           ('1 minute kick-off', 'OneMinuteTutorial.html'),
           ('Downloads', 'Downloads.html'),
           ('Installation', 'Installation.html'),
           ('Main Interface', 'MainInterface.html'),
-          ('Settings Interface', 'Settings.html'),
+          ('Settings', 'Settings.html'),
           ('Future Developments', 'FutureDevelopments.html'),
           ('About', 'About.html'),)
 
