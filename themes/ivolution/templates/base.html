@@ -41,11 +41,9 @@
 		<div class="well">
 			<h3>Contents</h3>
 			<ul>
-				{% if DISPLAY_PAGES_ON_MENU %}
-					{% for page in PAGES %}
-						<li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
-					{% endfor %}
-				{% endif %}
+				{% for name, link in PAGELINKS %}
+				<li><a href="{{ link }}">{{ name }}</a></li>
+				{% endfor %}
 			</ul>
 			<h3>Other Links</h3>
 			<ul>
