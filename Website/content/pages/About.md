@@ -41,6 +41,22 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 The important thing to note is that __I can not be taken responsible for any problem you might encounter__ (but I'd be glad to help you solve them if you have some).
 I never experienced any problem using Ivolution (nor all my users), but you are advised to make a copy of the images your are about to process first.
 
+### Technology used
+
+To create this project, I used a lot of different tools that are going to be listed here.
+
+- The whole project is written in Python (2.7). It allows rapid prototyping, has a, Python and huge amount of libraries available and also has the advantage to be portable (Windows, Linux, Web development, . . . ). I know I won´t be limited in the future by using Python.
+- All the image processing is performed using the excellent OpenCV library, through its Python bindings. If you have to develop image processing algorithms quickly and efficiently, Python and OpenCV are the tools you want. I used the OpenCV 2.4 version, to be compatible with the current package of Ubuntu.
+- I started developing the GUI in GTK+ ([here is a picture of what it looked like](https://dl.dropbox.com/u/4286043/ivolution_gtk.png)), but finally switched to WxPython. GTK+ is nice for Linux environments but made my software OS dependant, which I didn´t want.
+- I used py2exe combined to NSIS in order to create proper Windows executables. Both are simple to use, even though you may something have to dig into 3 years old forum posts to find the solution to your problems. I´d definitely use them again if needed in future projects.
+- In order to automate everything I used ant. I love ant because you can do pretty much everything you want with it, from compiling to move folder back and forth or even prepare coffee.
+Coming from the linux world, ant is a must if you want to save time.
+- Finally, this whole website was created using Pelican. I was searching for an Octopress equivalent, but written in Python.
+I found Pelican and stick with it since them. The documentation is really complete and you can start working in minutes. Plus it was created by a french man!
+
+That´s all for now folks. If you have other questions, just ask ;)
+
+
 ### About the developer
 
 My name is __[Julien Lengrand-Lambert](https://plus.google.com/u/0/107343304730454368817)__, and I am as french software engineer currently living in the Netherlands.

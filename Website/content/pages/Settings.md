@@ -17,7 +17,8 @@ The settings Window is divided into two main parts :
 
 This is the default page opened when you click on settings.
 
-[Insert s1]
+
+![Alt text](../theme/images/blog/s1.png)
 
 
 The basic settings page contains only elements:
@@ -31,7 +32,9 @@ The basic settings page contains only elements:
 
 The advanced settings page contain several option you can adjust to modify the timelapse creation algorithm behavior.
 
-[Insert s2]
+
+![Alt text](../theme/images/blog/s2.png)
+
 
 ### Speed of the video
 
@@ -51,7 +54,9 @@ Each image is also moved so that __the faces always stays in the same place__, e
 
 You can easily understand this concept by looking at the difference between each mode in this video :
 
-[Create video conservative versus crop]
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/9ZpKnSjvmXo?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+
 
 By choosing the __conservative mode__, all of your images are entirely used.
 This means that none of the images are cropped, and that black borders are added to keep the same dimension over all the video.
