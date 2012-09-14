@@ -3,7 +3,7 @@ Tags: face recognition, image processing, computer vision, python, openCV, Ivolu
 Slug: OneMinuteTutorial
 
 
-## Coz' 1 minute is faster than 5 minutes. . . here is a light speed tutorial
+## Coz' 1 minute is faster than 5 minutes... Light speed tutorial
 
 
 This page aims at putting you on rails __as fast as possible__, so that you can see what Ivolution is capable of by yourself __in less than 5 minutes__.

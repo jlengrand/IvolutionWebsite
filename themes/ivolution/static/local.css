@@ -19,6 +19,7 @@ div.highlight pre {
 .summary * { display: inline; }
 .summary pre { display: none; }
 
+.social a[href*='lengrand']:before {content: url('./images/icons/me.png'); margin-right: 2px; vertical-align: -3px;}
 .social a[href*='google.com']:before {content: url('./images/icons/gplus.png'); margin-right: 2px; vertical-align: -3px;}
 .social a[href*='activestate.com']:before {content: url('./images/icons/activestate.png'); margin-right: 2px; vertical-align: -3px;}
 .social a[href*='atom.xml']:before {content: url('./images/icons/rss.png'); margin-right: 2px; vertical-align: -3px;}

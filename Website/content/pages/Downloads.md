@@ -2,7 +2,7 @@ Title: Downloads
 Tags: face recognition, image processing, computer vision, python, openCV, Ivolution, Facemovie, Everyday, Downloads
 Slug: Downloads
 
-### Binaries and Code
+## Binaries and Code
 
 Here is what you need to install Ivolution :
 
@@ -25,7 +25,7 @@ If you want to always have the last version available, you can also choose to di
 
 Simply enter the project and run __./Ivolutioner__ in command line should get you started :).
 
-### Other downloads
+## Other downloads
 
 Several other ressources are available to download :
 

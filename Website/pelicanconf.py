@@ -12,8 +12,7 @@ DEFAULT_LANG = 'en'
 # Blogroll
 LINKS =  (('Python.org', 'http://python.org'),
           ('OpenCV', 'http://opencv.willowgarage.com/wiki/'),
-          ('WxPython', 'http://wxpython.org/'),
-          ('About me', 'http://www.lengrand.fr'),)
+          ('WxPython', 'http://wxpython.org/'),)
 
 PAGELINKS =  (('Ivolution Project', 'Ivolution.html'),
           ('1 minute kick-off', 'OneMinuteTutorial.html'),
@@ -25,7 +24,8 @@ PAGELINKS =  (('Ivolution Project', 'Ivolution.html'),
           ('About', 'About.html'),)
 
 # Social widget
-SOCIAL = (('twitter', 'https://twitter.com/jlengrand'),
+SOCIAL = (('My website', 'http://lengrand.fr'),
+          ('twitter', 'https://twitter.com/jlengrand'),
           ('Google+', 'https://plus.google.com/u/0/107343304730454368817/posts'),
           ('Github', 'https://github.com/jlengrand'),
           ('Stack Overflow', 'http://stackoverflow.com/users/282677/jlengrand'),
