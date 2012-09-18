@@ -4,7 +4,7 @@ Slug: About
 
 ### Other informations
 
-__Ivolution__ was created as a pet project, to help a friend currently [travelling around the world](http://ungrandtour.blogspot.nl/) (French inside).
+__Ivolution__ was created as a pet project, to help a friend currently [travelling around the world](http://ungrandtour.blogspot.nl/) (Warning, french inside).
 It is still in early development, but pretty much already achieves what it was created for !
 
 ### License
@@ -48,13 +48,13 @@ I never experienced any problem using Ivolution (nor all my users), but you are 
 
 To create this project, I used a lot of different tools that are going to be listed here.
 
-- The whole project is written in Python (2.7). It allows rapid prototyping, has a, Python and huge amount of libraries available and also has the advantage to be portable (Windows, Linux, Web development, . . . ). I know I won´t be limited in the future by using Python.
-- All the image processing is performed using the excellent OpenCV library, through its Python bindings. If you have to develop image processing algorithms quickly and efficiently, Python and OpenCV are the tools you want. I used the OpenCV 2.4 version, to be compatible with the current package of Ubuntu.
-- I started developing the GUI in GTK+ ([here is a picture of what it looked like](https://dl.dropbox.com/u/4286043/ivolution_gtk.png)), but finally switched to WxPython. GTK+ is nice for Linux environments but made my software OS dependant, which I didn´t want.
-- I used py2exe combined to NSIS in order to create proper Windows executables. Both are simple to use, even though you may something have to dig into 3 years old forum posts to find the solution to your problems. I´d definitely use them again if needed in future projects.
-- In order to automate everything I used ant. I love ant because you can do pretty much everything you want with it, from compiling to move folder back and forth or even prepare coffee.
+- The whole project is written in [Python](http://www.google.nl/url?sa=t&rct=j&q=python&source=web&cd=1&cad=rja&ved=0CCUQFjAA&url=http%3A%2F%2Fwww.python.org%2F&ei=g61TUJeiJ4nK0QXjwYCgBw&usg=AFQjCNG7frXlIQC6rpM3VV6f5i7nq5VeIg) (2.7). It allows rapid prototyping, has a, Python and huge amount of libraries available and also has the advantage to be portable (Windows, Linux, Web development, . . . ). I know I won´t be limited in the future by using Python.
+- All the image processing is performed using the excellent [OpenCV](http://www.google.nl/url?sa=t&rct=j&q=opencv&source=web&cd=8&cad=rja&ved=0CEkQFjAH&url=http%3A%2F%2Fopencv.org%2F&ei=ja1TUMzYFaX80QX964HYCQ&usg=AFQjCNGUr-UTYvy3hRjaFyy2oCg43JU9Vw) library, through its Python bindings. If you have to develop image processing algorithms quickly and efficiently, Python and OpenCV are the tools you want. I used the OpenCV 2.4 version, to be compatible with the current package of Ubuntu.
+- I started developing the GUI in [GTK+](http://www.google.nl/url?sa=t&rct=j&q=pygtk&source=web&cd=1&cad=rja&ved=0CCMQFjAA&url=http%3A%2F%2Fpygtk.org%2F&ei=k61TUJGQFKik0AXpv4GABg&usg=AFQjCNECVx76WbL-0AoZB9sMwXU5lYNQuQ) ([here is a picture of what it looked like](https://dl.dropbox.com/u/4286043/ivolution_gtk.png)), but finally switched to [WxPython](http://www.google.nl/url?sa=t&rct=j&q=wxpython&source=web&cd=1&cad=rja&ved=0CCMQFjAA&url=http%3A%2F%2Fwxpython.org%2F&ei=mq1TUP29EaLA0QWY64C4Bw&usg=AFQjCNE8M7EcUd4oQf5NyzG9qiWL15zPhQ). GTK+ is nice for Linux environments but made my software OS dependant, which I didn´t want.
+- I used [py2exe](http://www.py2exe.org/) combined to [NSIS](http://nsis.sourceforge.net/Main_Page) in order to create proper Windows executables. Both are simple to use, even though you may something have to dig into 3 years old forum posts to find the solution to your problems. I´d definitely use them again if needed in future projects.
+- In order to automate everything I used [ant](http://ant.apache.org/). I love ant because you can do pretty much everything you want with it, from compiling to move folder back and forth or even prepare coffee.
 Coming from the linux world, ant is a must if you want to save time.
-- Finally, this whole website was created using Pelican. I was searching for an Octopress equivalent, but written in Python.
+- Finally, this whole website was created using [Pelican](http://docs.getpelican.com/en/latest/index.html). I was searching for an Octopress equivalent, but written in Python.
 I found Pelican and stick with it since them. The documentation is really complete and you can start working in minutes. Plus it was created by a french man!
 
 That´s all for now folks. If you have other questions, just ask ;)

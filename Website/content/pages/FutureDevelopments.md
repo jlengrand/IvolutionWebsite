@@ -30,4 +30,4 @@ This should be changed soon
 
 I have new ideas every day, and there's not enough space here to list them all !
 
-__If you also have ideas, just drop me a mail at ivolution-app@gmail.com and I'll be glad to take your advice in consideration !__
+__If you also have ideas, just drop me a mail at [ivolution-app@gmail.com](mailto:ivolution-app@gmail.com) and I'll be glad to take your advice in consideration !__

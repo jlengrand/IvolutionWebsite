@@ -8,8 +8,8 @@ Slug: OneMinuteTutorial
 
 This page aims at putting you on rails __as fast as possible__, so that you can see what Ivolution is capable of by yourself __in less than 5 minutes__.
 
-First of all, __[download](link to Download page)__ the version of Ivolution corresponding to your operating system here.
-Then, __[download the set of samples](link to samples directly)__ that you are going to use here, and extract the archive where you want.
+First of all, __[download](https://sourceforge.net/projects/ivolutioner/files/current/)__ the version of Ivolution corresponding to your operating system here.
+Then, __[download the set of samples](http://sourceforge.net/projects/ivolutioner/files/other%20downloads/Ivolution_samples.zip/download)__ that you are going to use here, and extract the archive where you want.
 
 Install the Ivolution and run it.
 You should now see the main frame of the application.

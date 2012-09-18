@@ -30,5 +30,5 @@ Here is what the current interface looks like :
 Ivolution currently supports Windows and Linux and was successfully tested on Windows XP, 7 and Ubuntu 12.04.
 
 
-Ivolution is currently still in early development, and you may face bugs or feel like critical features are missing.
-In this case, just let me know by [sending me a mail](ivolution_app@gmail.com) or by [filing a bug here](https://github.com/jlengrand/FaceMovie/issues?state=open). I'll be glad to help you !
+__Ivolution is currently still in early development, and you may face bugs or feel like critical features are missing.__
+__In this case, just let me know by [sending me a mail](ivolution_app@gmail.com) or by [filing a bug here](https://github.com/jlengrand/FaceMovie/issues?state=open). I'll be glad to help you !__

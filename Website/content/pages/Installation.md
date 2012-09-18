@@ -13,7 +13,7 @@ Please choose below the chapter corresponding to your operating system
 ## Windows (XP, Vista, Seven)
 
 
-[Simply download and run the executable](link to installer)(x86).
+[Simply download and run the executable](http://sourceforge.net/projects/ivolutioner/files/current/Ivolution_0.6.1.exe/download)(x86).
 
 Once installed, you should be able to run Ivolution through the icon on the Desktop.
 Everything should work out of the box without issue.
@@ -25,13 +25,13 @@ Ivolution is available for Ubuntu in only a few simple steps.
 First of all, install Ivolution's dependencies. You can simply do this by running the following line in a terminal :
 
     :::python
-    $ apt-get install my super packages TODO
+    $ apt-get install python-opencv python-gi python-numpy python-wxgtk2.8 python-wxtools python-wxversion
 
 
 *__Note__ : You'll need administrator's rights to install the packages (usually means using __sudo__).*
 
 
-Then, __[download the last stable packages](../pages/Downloads.html)__ and extract here where you want.
+Then, __[download the last stable package](http://sourceforge.net/projects/ivolutioner/files/current/Ivolution-0.6.zip/download)__ and extract here where you want.
 
 Finally, move to the extracted folder in command line and install the package
 
@@ -43,7 +43,7 @@ Finally, move to the extracted folder in command line and install the package
 __Done !__ You can now start using Ivolution by running the following command in a terminal :
 
     :::python
-    Ivolutioner
+    $ Ivolutioner
 
 ### Uninstalling the software
 
@@ -55,7 +55,7 @@ __Done !__ You can now start using Ivolution by running the following command in
 You can do this by running the following command in a terminal, where *ivolution_file* is your record file.
 
     :::python
-    [proper command line to uninstall]
+    $ cat files.txt | xargs rm -rf
 
 **WARNING: This command, if not run correctly, may cause damages! Check the record file first.**
 
@@ -66,11 +66,11 @@ For most of all the other Linux distributions, the installation process is simil
 You will have to find the name of the packages for your own distribution, or compile them from source if they don't exist.
 Here is a list of all the elements you'll need in your system to run Ivolution:
 
-- python 2.7 or more
-- opencv 2.4 or more, and all of its dependencies
-- wxpython and wxwidgets
+- [python 2.7](http://www.python.org/getit/releases/2.7/) or more (2.xx)
+- [opencv 2.4](http://opencv.org/) (or more), and all of its dependencies
+- [wxpython](http://wxpython.org/) and the related [wxwidgets](http://www.wxwidgets.org/)
 
-Once all the dependencies are satisfied, you can simply [download](link to Linux package) and install the package using the directions __from the Ubuntu chapter__.
+Once all the dependencies are satisfied, you can simply [download](http://sourceforge.net/projects/ivolutioner/files/current/Ivolution-0.6.zip/download) and install the package using the directions __from the Ubuntu chapter__.
 
 ## Mac OS
 
@@ -78,4 +78,4 @@ Up to now, I was not able to create application installer as for Windows.
 __Mac users should for now follow the Linux guide to install Ivolution.__
 
 An installer may be provided in the future.
-You can also try to create it by yourself, using [py2app](link to py2app) (__and in this case, let me know !__)
+You can also try to create it by yourself, using [py2app](http://svn.pythonmac.org/py2app/py2app/trunk/doc/index.html) (__and in this case, let me know !__)

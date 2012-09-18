@@ -18,8 +18,6 @@ The main frame is composed of three different parts :
 - The __Toolbar__, containing all the elements you can use to create your timelapse, such as the start or the stop buttons
 - The __Main Frame__, aiming at presenting all the information and status of the application in real time.
 
-[Insert numbered list here]
-
 ### MenuBar
 
 I am quite sure everyone having a computer is used to it, but let's present it anyway !
@@ -35,7 +33,7 @@ The elements of the menubar are quite straight speaking :
 The toolbar contains several icons, each of them having a precise purpose:
 
 - The first folder button shall be used to define the input folder that will be searched for images. All the images of the folder (and its subfolders) will be used in the timlapse generation
-- The second icon opens the settings window. You can learn more about it in (OTHER CHAPTER). For a basic usage, you can just let the default options.
+- The second icon opens the settings window. You can learn more about it in the next chapter. For a basic usage, you can just let the default options.
 - Then come the start and stop buttons. Once you input folder is chosen, you can start the application by pressing the green button. Pressing the red button wile processing will stop it.
 - Finally, a quick link to the online help is here in case you need it.
 
@@ -71,7 +69,7 @@ The folder you have selected will be walked __recursively__, including all its s
 All the images will be then listed, while non image files will automatically discarded.
 
 When this step is finished, the algorithm will __start searching for faces__ in your pictures, in __chronological order__.
-A [green color](color in green) on a file means that the image was successfully processed, while a [red color](color in red) indicates that no face has been found.
+A <font color="green">green color</font> on a file means that the image was successfully processed, while a <font color="red">red color</font> indicates that no face has been found.
 When all the files are given a color, the face detection step is terminated and the movie will be generated.
 
 Below are presented 2 examples of processing list. In the first case, the face detection is being performed and everything seems to work fine.

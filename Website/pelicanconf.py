@@ -15,7 +15,7 @@ LINKS =  (('Python.org', 'http://python.org'),
           ('WxPython', 'http://wxpython.org/'),)
 
 PAGELINKS =  (('Ivolution Project', 'Ivolution.html'),
-          ('1 minute kick-off', 'OneMinuteTutorial.html'),
+          ('One minute tutorial', 'OneMinuteTutorial.html'),
           ('Downloads', 'Downloads.html'),
           ('Installation', 'Installation.html'),
           ('Main Interface', 'MainInterface.html'),
@@ -34,6 +34,21 @@ SOCIAL = (('My website', 'http://lengrand.fr'),
 DEFAULT_PAGINATION = False
 NEWEST_FIRST_ARCHIVES = False
 
+#theme folder = /home/test/.virtualenvs/pelican/local/lib/python2.7/site-packages/pelican/themes/
 THEME = "ivolution"
 
-#theme folder = /home/test/.virtualenvs/pelican/local/lib/python2.7/site-packages/pelican/themes/svbtle' ...
+PLUGINS=['pelican.plugins.sitemap',]
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.8
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'daily'
+    }
+}

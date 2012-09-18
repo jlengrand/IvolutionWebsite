@@ -57,7 +57,7 @@ Each image is also moved so that __the faces always stays in the same place__, e
 You can easily understand this concept by looking at the difference between each mode in this video :
 
 <center>
-<iframe width="640" height="360" src="http://www.youtube.com/embed/9ZpKnSjvmXo?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dXuGMZk9_U8" frameborder="0" allowfullscreen></iframe>
 </center>
 
 
