@@ -52,3 +52,5 @@ SITEMAP = {
         'pages': 'daily'
     }
 }
+
+GOOGLE_ANALYTICS = "UA-34918746-1"
