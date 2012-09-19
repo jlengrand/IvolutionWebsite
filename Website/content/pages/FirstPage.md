@@ -11,8 +11,7 @@ Feed it with a bunch of images and it will generate a movie with your face cente
 
 Here is a small demonstration of what Ivolution can achieve :
 
-<center><iframe width="640" height="360" src="http://www.youtube.com/embed/9ZpKnSjvmXo?feature=player_detailpage" frameborder="0" allowfullscreen></iframe></center>
-
+<center><iframe width="420" height="315" src="http://www.youtube.com/embed/yBnsqYn9Vgg" frameborder="0" allowfullscreen></iframe></center>
 
 Ivolution uses __face detection__ and modifies the images so that your face always keeps the same size and location over the movie.
 Images are processed in __chronological order__, so that you can see your face evoluate over time !
