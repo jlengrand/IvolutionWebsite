@@ -3,7 +3,7 @@
 
 AUTHOR = u"Julien Lengrand-Lambert"
 SITENAME = u"Ivolution"
-SITEURL = 'localhost'
+SITEURL = 'http://jlengrand.github.com/Ivolution'
 
 TIMEZONE = 'Europe/Amsterdam'
 
