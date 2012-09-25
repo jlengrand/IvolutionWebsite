@@ -20,6 +20,7 @@ PAGELINKS =  (('Ivolution Project', 'Ivolution.html'),
           ('Installation', 'Installation.html'),
           ('Main Interface', 'MainInterface.html'),
           ('Settings', 'Settings.html'),
+          ('FAQ', 'FAQ.html'),
           ('Future Developments', 'FutureDevelopments.html'),
           ('About', 'About.html'),)
 
